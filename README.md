@@ -73,7 +73,7 @@ The python file has all the python code and scripts required for the project. Th
 
 ## Authors and acknowledgment
 Tanvi Murke
-Prathmesh Deshpande
-Shruti Deshpande
-Tanmay Bhardwaj
+ Prathmesh Deshpande
+ Shruti Deshpande
+ Tanmay Bhardwaj
 
