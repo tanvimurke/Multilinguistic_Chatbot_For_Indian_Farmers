@@ -72,8 +72,8 @@ The application file has code related to the android application developed using
 The python file has all the python code and scripts required for the project. There is a database csv file which contains all the data which is downloaded from kisan.gov indian website and also data which is created by us after doing a field survey. 
 
 ## Authors and acknowledgment
-Tanvi Murke
- Prathmesh Deshpande
- Shruti Deshpande
- Tanmay Bhardwaj
+Tanvi Murke <br />
+Prathmesh Deshpande <br />
+Shruti Deshpande <br />
+Tanmay Bhardwaj
 
